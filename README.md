@@ -1,15 +1,15 @@
-### Hi there👋, 
-- ⚡  I am Rodrigo Reis a Dev Academy Full Stack Web Developer Graduate 
-- 🌱 I’m currently learning Typescript
-- 🤔 I’m looking for first job opportunity
-- 😄 Pronouns: He/Him
+    ### Hi there👋, 
+    - ⚡  I am Rodrigo Reis a Dev Academy Full Stack Web Developer Graduate 
+    - 🌱 I’m currently learning Typescript
+    - 🤔 I’m looking for first job opportunity
+    - 😄 Pronouns: He/Him
 
 <div align="center" style="display: inline_block">
     <a href="https://github.com/RodrigoReis-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoReis-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoReis-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
     <img align="center" alt="Rod-Js" height="40" width="50" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rod-Ts" height="40" width="50" 
@@ -34,7 +34,7 @@
 
 ##
  
-<div> 
+<div align="center"> 
   
   <a href="https://www.instagram.com/rodrigoreis1976" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
