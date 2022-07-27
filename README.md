@@ -1,4 +1,4 @@
-    ### Hi there👋, 
+    Hi there👋 
     - ⚡  I am Rodrigo Reis a Dev Academy Full Stack Web Developer Graduate 
     - 🌱 I’m currently learning Typescript
     - 🤔 I’m looking for first job opportunity
