@@ -7,8 +7,8 @@
 
 <div align="center" style="display: inline_block">
     <a href="https://github.com/RodrigoReis-dev">
-    <img height="200em width="500em" src="https://github-readme-stats.vercel.app/api?username=RodrigoReis-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoReis-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="200em width="250em" src="https://github-readme-stats.vercel.app/api?username=RodrigoReis-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoReis-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Rod-Js" height="40" width="50" 
