@@ -2,7 +2,7 @@
     Hi there👋 
     - ⚡  I am Rodrigo Reis a Dev Academy Full Stack Web Developer Graduate 
     - 🌱 I’m currently learning Typescript
-    - 🤔 Looking for first job opportunity
+    - 🤔 Looking for a job opportunity as Software Developer
     - 😄 Pronouns: He/Him
 
 <div align="center" style="display: inline_block">
