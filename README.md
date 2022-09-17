@@ -1,7 +1,7 @@
 
     Hi there👋 
     - ⚡  I am Rodrigo Reis a Dev Academy Full Stack Web Developer Graduate 
-    - 🌱 I’m currently learning Typescript
+    - 🌱 I’m currently learning/Practising Next.JS and Typescript
     - 🤔 Looking for a job opportunity as Software Developer
     - 😄 Pronouns: He/Him
 
